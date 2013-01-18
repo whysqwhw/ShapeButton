@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shapes>
+
+    <rect
+        id="bar 1"
+        angle="25"
+        height="44dp"
+        width="256dp"
+        x="50dp"
+        y="50dp"
+        z="2" />
+
+    <triangle
+        id="triangle"
+        height="64dp"
+        width="64dp"
+        x="200dp"
+        y="50dp"
+        z="1" />
+
+    <arc
+        id="round center"
+        accent="#80B0E0"
+        base="#8090A0"
+        end="90"
+        height="96dp"
+        start="-90"
+        width="96dp"
+        x="-48dp"
+        y="148dp" />
+    <arc
+        id="round 1"
+        accent="#80E080"
+        base="#80A080"
+        end="-32"
+        height="192dp"
+        start="-90"
+        thickness="44dp"
+        width="192dp"
+        x="-96dp"
+        y="100dp" />
+    <arc
+        id="round 2"
+        accent="#E0E080"
+        base="#A0A080"
+        end="29"
+        height="192dp"
+        start="-29"
+        thickness="44dp"
+        width="192dp"
+        x="-96dp"
+        y="100dp" />
+    <arc
+        id="round 3"
+        accent="#E08080"
+        base="#A08080"
+        end="90"
+        height="192dp"
+        start="32"
+        thickness="44dp"
+        width="192dp"
+        x="-96dp"
+        y="100dp" />
+
+</shapes>

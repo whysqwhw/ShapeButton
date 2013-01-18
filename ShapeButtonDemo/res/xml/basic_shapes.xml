@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shapes>
+
+    <rect
+        id="rect"
+        angle="-25"
+        height="44dp"
+        width="256dp"
+        x="10dp"
+        y="50dp" />
+
+    <triangle
+        id="triangle"
+        height="64dp"
+        width="64dp"
+        x="10dp"
+        y="150dp"
+        z="1" />
+
+    <oval
+        id="oval"
+        angle="60"
+        height="96dp"
+        width="64dp"
+        x="120dp"
+        y="150dp" />
+
+    <arc
+        id="arc filled"
+        end="90"
+        height="192dp"
+        start="0"
+        width="256dp"
+        x="10dp"
+        y="250dp" />
+    <arc
+        id="arc border"
+        end="360"
+        height="192dp"
+        start="90"
+        thickness="44dp"
+        width="256dp"
+        x="10dp"
+        y="250dp" />
+    <arc
+        id="arc filled"
+        end="360"
+        height="104dp"
+        start="90"
+        width="168dp"
+        x="54dp"
+        y="294dp" />
+
+</shapes>

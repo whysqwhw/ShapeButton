@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ShapeButton Demo</string>
+
+    <string-array name="sample_names">
+        <item>Basic Shapes</item>
+        <item>Colors</item>
+        <item>States</item>
+    </string-array>
+    <string-array name="sample_xml">
+        <item>basic_shapes</item>
+        <item>colors</item>
+        <item>states</item>
+    </string-array>
+
+</resources>

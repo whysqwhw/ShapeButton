@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbars="vertical|horizontal"
+    tools:context=".MainActivity" >
+
+    <!--
+    xmlns:app="http://schemas.android.com/apk/res/fr.xgouchet.shapebutton"
+    app:shapes="@xml/source"
+    -->
+
+    <ShapeButton
+        android:id="@+id/shapeButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:padding="5dp" />
+
+</ScrollView>
